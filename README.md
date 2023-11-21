@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rizkyher
+- 👋 Hi, I’m rizky herdiansyah
 - 👀 I’m interested in Programming
 
 
