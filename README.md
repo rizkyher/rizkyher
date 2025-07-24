@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkyher&show_icons=true&theme=radical" height="165" />
+![rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyher&show_icons=true&theme=transparent)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyher&theme=radical" height="165" />
 </p>
 
