@@ -1,18 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Rizky Herdiansyah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Flutter+%F0%9F%93%B1+%E2%80%A2+React+%E2%9C%A8+%E2%80%A2+Node.js+%F0%9F%96%BE%EF%B8%8F;Fullstack+Developer+%F0%9F%A7%A0;Clean+UI+%2B+Solid+Logic+%3D+%E2%9C%94%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=420&lines=Flutter+%F0%9F%93%B1+%E2%80%A2+React+%E2%9C%A8+%E2%80%A2+Node.js+%F0%9F%96%BE%EF%B8%8F;Fullstack+Developer+%F0%9F%A7%A0;562+Contributions+Last+Year+%F0%9F%94%8A" />
 </p>
 
 ---
 
 ### 🧑‍💻 Tentang Saya
 
-- 🔭 Sedang membangun aplikasi menggunakan **Flutter**, **React**, dan **Next.js**
-- 🛠️ Fokus pada: Frontend interaktif + Backend API yang ringan
-- 🌱 Saat ini memperdalam **State Management** & **API Integration**
-- 📬 Terbuka untuk kolaborasi dan freelance project
-- 💬 Motto: *"Bangun UI yang enak dilihat, dan logic yang enak dipelihara."*
+- 📱 Mobile Dev pakai **Flutter**
+- 💻 Web Dev pakai **React**, **Next.js**, dan **Tailwind**
+- ⚙️ Backend pakai **Node.js** & **Express**
+- 📦 Pernah juga pakai **Nuxt**, **HTML/CSS**, dan **JavaScript**
+- 🧠 Terus belajar & eksplorasi teknologi baru
+- 💬 Terbuka untuk kolaborasi dan project freelance
 
 ---
 
@@ -41,24 +42,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-![rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyher&show_icons=true&theme=transparent)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyher&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizkyher&show_icons=true&theme=transparent" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizkyher&label=Profile%20views&color=10B981&style=flat" />
-  <img src="https://badges.pufler.dev/contributions/rizkyher" />
-</p>
-
-> 🟢 **562 contributions in the last year** — konsisten membangun dan berkembang.
 
 ---
 
-### 📫 Contact & Connect
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/rizky-herdiansyah))  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizkyherdiansyah31@gmail.com)
+<a href="mailto:rizkyherdiansyah31@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rizky-herdiansyah">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 ---
 
-> _"Consistency is more important than intensity."_
+> _"Build what you love, and keep learning."_ 🚀
