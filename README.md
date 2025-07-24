@@ -46,8 +46,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizkyherdiansyah&label=Profile%20views&color=10B981&style=flat" />
-  <img src="https://badges.pufler.dev/contributions/rizkyherdiansyah" />
+  <img src="https://komarev.com/ghpvc/?username=rizkyher&label=Profile%20views&color=10B981&style=flat" />
+  <img src="https://badges.pufler.dev/contributions/rizkyher" />
 </p>
 
 > 🟢 **562 contributions in the last year** — konsisten membangun dan berkembang.
