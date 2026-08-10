@@ -21,7 +21,7 @@
 I enjoy turning ideas into polished web and mobile experiences—from a useful interface to a dependable backend.
 
 - 📱 Building cross-platform mobile apps with **Flutter**
-- 💻 Developing responsive web apps with **React**, **Next.js**, **Svelte**, and **Tailwind CSS**
+- 💻 Developing responsive web apps with **React**, **Next.js**, and **Tailwind CSS**
 - ⚙️ Building APIs and backend services with **Node.js** and **Express**
 - 🤝 Open to collaboration and freelance projects
 
@@ -31,6 +31,8 @@ I enjoy turning ideas into polished web and mobile experiences—from a useful i
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
