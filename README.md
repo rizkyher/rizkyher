@@ -39,15 +39,46 @@ I enjoy turning ideas into polished web and mobile experiences—from a useful i
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
 ### Also exploring with Codex
 
 <p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
+
+---
+
+### Contributions from 2024 to now
+
+I’ve been actively building projects across mobile apps, web platforms, and backend systems since 2024, including work on:
+
+- Flutter app development and full-stack product features
+- React + Svelte + Next.js frontend experiences
+- Node.js and Express backend APIs
+- UI/UX improvements and deployment setup
+- Real-world business and community platform projects
+- Collaboration in shared repositories and product engineering work
+
+### Activity areas
+
+- 📱 Mobile-first apps with Flutter and Dart
+- 🌐 Responsive web apps with React, SvelteKit, Next.js, and Tailwind CSS
+- ⚙️ Backend services and APIs with Node.js and Express
+- 🧩 Feature implementation, bug fixing, and system improvements
+- ☁️ Deployment and tooling with Firebase, Cloudflare, and GitHub Actions
+
+### Notable contributions
+
+- Built and improved end-to-end product features in real projects like Portal SI, Islamic IT School, and other client/community platforms
+- Worked on authentication flows, user experience refinement, deployment setup, and web improvements
+- Contributed across multiple repos with focus on production-ready frontend and backend implementation
+- Continued learning and shipping work across full-stack development and modern app architecture
+
+---
 
 ### GitHub activity
 
